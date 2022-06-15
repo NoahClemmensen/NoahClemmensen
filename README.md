@@ -1,5 +1,4 @@
-<h1 align="center">Hej jeg er Noah Clemmensen</h1>
-<h3 align="center">En entusiastisk EUX elev der elsker at lære</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9000BB&lines=Hej+jeg+er+Noah+Clemmensen;Jeg+er+en+entusiastisk+EUX+elev+p%C3%A5+SDE)](https://git.io/typing-svg)
 
 - Jeg er igang med [CPPPhysicsEngine](https://github.com/NoahClemmensen/CPPPhysicsEngine)
 
