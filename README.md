@@ -2,7 +2,7 @@
 
 - Jeg er igang med [CPPPhysicsEngine](https://github.com/NoahClemmensen/CPPPhysicsEngine)
 
-- Du kan se alle mine projekter her [https://github.com/NoahClemmensen](https://github.com/NoahClemmensen)
+- Du kan se alle mine projekter [her](https://github.com/NoahClemmensen)
 
 - Spørg mig omkring **C#, Python, C++, IT og andre interessante emner**
 
